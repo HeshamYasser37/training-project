@@ -5,4 +5,4 @@ This is just a training website built with <strong>HTML</strong> and <strong>CSS
 Also this is my first website/project in my career.
 
 You Can Check It Out From Here:
-https://hesham0001.github.io/training-project/
+https://heshamyasser37.github.io/training-project/
